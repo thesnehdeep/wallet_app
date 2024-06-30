@@ -22,7 +22,8 @@ A simple wallet application built with Flutter that demonstrates wallet features
 - Request Airdrop
 - Network Selection (Polygon Mainnet, Ethereum Mainnet)
 
-## Screenshots
+ 
+## Screenshots 
 
 ![App Screenshots](.flutterproject\wallet_app\Screenshots app)
 
@@ -51,6 +52,7 @@ test/
 |- wallet_provider_test.dart
 
 ## Getting Started
+
  Prerequisites
   Flutter
   Dart
